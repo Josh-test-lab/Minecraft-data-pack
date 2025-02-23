@@ -1,0 +1,1 @@
+give @p minecraft:diamond_sword[item_name='{"text":"刀"}',custom_model_data=1] 1

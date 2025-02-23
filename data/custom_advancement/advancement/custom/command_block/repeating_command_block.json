@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:repeating_command_block"
+        },
+        "title": {
+            "text": "World destroyer!!!"
+        },
+        "description": {
+            "text": "獲得重複型指令方塊"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "custom_advancement:custom/command_block/chain_command_block",
+    "criteria": {
+        "shield": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:repeating_command_block"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

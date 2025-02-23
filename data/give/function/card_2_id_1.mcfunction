@@ -1,0 +1,1 @@
+give @p minecraft:paper[max_stack_size=5,item_name='{"color":"yellow","text":"上城區警察局裝備室門禁卡"}',lore=['{"text":" "}','[{"color":"yellow","italic":false,"text":"上城區警察局裝備室門禁卡"},{"color":"white","italic":false,"text":"，出入裝備室時"}]','{"color":"white","italic":false,"text":"必須刷卡，以防止機要文件或裝備遺失。"}'],rarity="uncommon",custom_model_data=15,custom_data={ID:1}] 1

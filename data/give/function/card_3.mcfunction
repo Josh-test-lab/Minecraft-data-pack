@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"卡片"}',custom_model_data=16] 1

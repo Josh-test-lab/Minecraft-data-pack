@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"讀取中"}',custom_model_data=5] 1

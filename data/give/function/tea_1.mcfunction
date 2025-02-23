@@ -1,0 +1,1 @@
+give @p minecraft:cookie[item_name='{"text":"茶"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"喫茶，別懷疑！"}'],custom_model_data=2] 1

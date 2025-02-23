@@ -1,0 +1,1 @@
+give @p minecraft:diamond_sword[item_name='{"text":"刀"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"展示專用"}'],custom_model_data=2] 1

@@ -1,0 +1,1 @@
+give @p minecraft:paper[max_stack_size=5,item_name='{"text":"迷因眼鏡"}',lore=['{"color":"gray","italic":false,"text":"逼格 X"}','{"text":" "}','{"color":"gray","italic":true,"text":"# 裝逼專用"}'],custom_model_data=10] 1

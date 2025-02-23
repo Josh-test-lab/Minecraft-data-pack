@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"秘界"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"普通尺寸"}'],custom_model_data=8] 1

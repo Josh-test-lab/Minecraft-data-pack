@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick[item_name='{"color":"yellow","text":"7.62 毫米子彈"}',lore=['{"color":"gray","italic":false,"text":"價值 I"}','{"text":" "}','{"color":"white","italic":false,"text":"由銅製成的子彈，適用於部分槍枝。"}'],rarity="uncommon",custom_model_data=2,custom_data={762mm:1}] 1

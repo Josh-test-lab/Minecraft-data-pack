@@ -1,0 +1,2 @@
+kill @s
+summon minecraft:item ~ ~0.3 ~ {Age:5800,PickupDelay:1000,Invulnerable:1b,Item:{id:"minecraft:snowball",count:1,components:{"minecraft:custom_model_data":3,"minecraft:custom_data":{Tags:["white_smoke_grenade_on_ground"]}}}}

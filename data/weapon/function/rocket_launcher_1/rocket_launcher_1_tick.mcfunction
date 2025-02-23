@@ -1,0 +1,1 @@
+execute as @a[scores={rocket_launcher_1_rightclick=1..}] at @s run function weapon:rocket_launcher_1/rocket_launcher_1_rightclick

@@ -1,0 +1,1 @@
+give @p minecraft:paper[max_stack_size=1,custom_name='{"text":"黃色天使光環"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"傳說中天使光環都是亮晶晶的。"}'],rarity="common",custom_model_data=6] 1

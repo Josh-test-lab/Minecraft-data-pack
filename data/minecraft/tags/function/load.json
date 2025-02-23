@@ -1,0 +1,12 @@
+{
+    "values": [
+        "environment:environment_load",
+        "weapon:ak47_1/ak47_1_load",
+        "bullet:762mm/762mm_load",
+        "bullet:magazine_ak47_1/magazine_ak47_1_load",
+        "loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_load",
+        "magic:30_blocks_random_teleport_magic/30_blocks_random_teleport_magic_load",
+        "weapon:rocket_launcher_1/rocket_launcher_1_load",
+        "music:main_city/main_city_load"
+    ]
+}

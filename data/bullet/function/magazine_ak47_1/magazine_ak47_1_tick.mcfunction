@@ -1,0 +1,1 @@
+execute as @a[scores={magazine_ak47_1_rightclick=1..}] at @s run function bullet:magazine_ak47_1/magazine_ak47_1_rightclick

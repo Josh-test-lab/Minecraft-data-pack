@@ -1,0 +1,1 @@
+function weapon:ak47_1/ak47_1_give

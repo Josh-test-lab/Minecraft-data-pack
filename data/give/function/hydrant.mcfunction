@@ -1,0 +1,1 @@
+give @p minecraft:stick[item_name='{"color":"white","text":"消防栓"}',lore=['{"italic":false,"text":" "}','{"color":"white","italic":false,"text":"街道必備防火設施。"}'],rarity="common",custom_model_data=2] 1

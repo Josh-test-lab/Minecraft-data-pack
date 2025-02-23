@@ -1,0 +1,37 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:shield"
+        },
+        "title": {
+            "text": "持盾者"
+        },
+        "description": {
+            "text": "獲得一面有耐久III附魔的盾牌"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "custom_advancement:custom/root",
+    "criteria": {
+        "shield": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:shield"
+                        ],
+                        "components": {
+                            "minecraft:enchantments": {
+                                "minecraft:unbreaking": 3
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

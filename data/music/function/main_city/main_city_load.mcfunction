@@ -1,0 +1,3 @@
+scoreboard objectives remove main_city_music
+scoreboard objectives add main_city_music dummy
+scoreboard objectives add main_city_music_timeout dummy

@@ -1,0 +1,1 @@
+function weapon:cobweb_tnt_trap_arrow/cobweb_tnt_trap_arrow_give

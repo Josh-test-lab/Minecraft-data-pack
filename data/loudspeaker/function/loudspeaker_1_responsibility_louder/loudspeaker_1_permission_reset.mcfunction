@@ -1,0 +1,4 @@
+# 移除使用權記分板
+scoreboard objectives remove loudspeaker_1_permission
+# 重新讀取
+function loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_load

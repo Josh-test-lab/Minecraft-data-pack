@@ -1,0 +1,1 @@
+give @p minecraft:paper[max_stack_size=1,item_name='{"color":"gray","text":"System Card"}',lore=['{"color":"gray","italic":false,"text":"通行 **"}','{"color":"gray","italic":false,"text":"價值 **"}','{"text":" "}','{"color":"aqua","italic":false,"text":"系統管理員通行證"}'],custom_model_data=14,custom_data={ID:0}] 1

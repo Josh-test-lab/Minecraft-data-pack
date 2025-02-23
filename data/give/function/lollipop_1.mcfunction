@@ -1,0 +1,1 @@
+give @p minecraft:cookie[item_name='{"color":"white","text":"棒棒糖"}',custom_model_data=1] 1

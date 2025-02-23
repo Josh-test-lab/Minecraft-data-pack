@@ -1,0 +1,1 @@
+function magic:cobweb_trap/cobweb_trap_give

@@ -1,0 +1,1 @@
+function weapon:rocket_launcher_1/rocket_launcher_1_empty_give

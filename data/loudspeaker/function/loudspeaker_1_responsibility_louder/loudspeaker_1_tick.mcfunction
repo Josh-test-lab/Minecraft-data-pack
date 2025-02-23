@@ -1,0 +1,1 @@
+execute as @a[scores={loudspeaker_1_rightclick=1..}] at @s run function loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_rightclick

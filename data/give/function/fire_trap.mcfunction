@@ -1,0 +1,1 @@
+function magic:fire_trap/fire_trap_give

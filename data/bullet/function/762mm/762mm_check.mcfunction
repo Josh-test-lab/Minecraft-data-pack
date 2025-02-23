@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Inventory:[{id:"minecraft:carrot_on_a_stick",Slot:-106b,components:{"minecraft:custom_model_data":1,"minecraft:custom_data":{ak47:1}}}]}] run function weapon:ak47_1/ak47_1_reload

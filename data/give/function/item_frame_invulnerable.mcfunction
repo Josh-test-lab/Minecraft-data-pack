@@ -1,0 +1,1 @@
+give @p minecraft:item_frame[item_name='{"color":"gray","italic":false,"text":"無敵物品展示框"}',lore=['{"color":"gray","italic":false,"text":"無敵 **"}','" "','[{"color":"white","italic":false,"text":"物品："},{"color":"white","fallback":"物品展示框","italic":false,"translate":"item.minecraft.item_frame"}]'],entity_data={id:"minecraft:item_frame",Invulnerable:1b}] 1

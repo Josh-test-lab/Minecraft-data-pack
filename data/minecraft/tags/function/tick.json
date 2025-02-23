@@ -1,0 +1,30 @@
+{
+    "values": [
+        "environment:environment_tick",
+        "weapon:ak47_1/ak47_1_tick",
+        "bullet:762mm/762mm_tick",
+        "bullet:magazine_ak47_1/magazine_ak47_1_tick",
+        "loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_tick",
+        "weapon:tnt_arrow/tnt_arrow_tick",
+        "weapon:lightning_arrow/lightning_arrow_tick",
+        "weapon:fireball_arrow/fireball_arrow_tick",
+        "weapon:rain_of_arrows_arrow/rain_of_arrows_arrow_tick",
+        "weapon:end_crystal_arrow/end_crystal_arrow_tick",
+        "weapon:creeper_arrow/creeper_arrow_tick",
+        "magic:cobweb_trap/cobweb_trap_tick",
+        "weapon:anvil_arrow/anvil_arrow_tick",
+        "magic:cobweb_tnt_trap/cobweb_tnt_trap_tick",
+        "weapon:cobweb_tnt_trap_arrow/cobweb_tnt_trap_arrow_tick",
+        "magic:fire_trap/fire_trap_tick",
+        "magic:anvil_trap/anvil_trap_tick",
+        "weapon:fire_arrow/fire_arrow_tick",
+        "magic:30_blocks_random_teleport_magic/30_blocks_random_teleport_magic_tick",
+        "custom_mob:giant/giant_tick",
+        "potion:cobweb_lingering_potion/cobweb_lingering_potion_tick",
+        "weapon:rocket_launcher_1/rocket_launcher_1_tick",
+        "weapon:grenade_1/grenade_1_tick",
+        "weapon:white_smoke_grenade/white_smoke_grenade_tick",
+        "weapon:red_smoke_grenade/red_smoke_grenade_tick",
+        "weapon:yellow_smoke_grenade/yellow_smoke_grenade_tick"
+    ]
+}

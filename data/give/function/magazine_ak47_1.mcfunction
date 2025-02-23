@@ -1,0 +1,1 @@
+function bullet:magazine_ak47_1/magazine_ak47_1_give

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:leather_boots"
+        },
+        "title": "唉呀！跌倒了！",
+        "description": "於帝國大廈進行危險的戶外行動時不小心失足摔落地面",
+        "hidden": true
+    },
+    "parent": "custom_advancement:custom/pauku/pauku",
+    "criteria": {
+        "pauku": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

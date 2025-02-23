@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"中華民國國旗"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"垂直懸掛版"}'],custom_model_data=18] 1

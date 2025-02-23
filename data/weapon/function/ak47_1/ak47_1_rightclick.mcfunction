@@ -1,0 +1,2 @@
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:custom_model_data":1,"minecraft:custom_data":{ak47:1}}}}] positioned ~ ~ ~ run function weapon:ak47_1/ak47_1_user_tag
+scoreboard players reset @s ak47_1_rightclick

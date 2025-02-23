@@ -1,0 +1,1 @@
+function loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_give

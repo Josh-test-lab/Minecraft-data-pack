@@ -1,0 +1,1 @@
+give @p minecraft:armor_stand[item_name='{"text":"小型盔甲座"}',lore=['{"text":" "}','[{"color":"white","italic":false,"text":"經過調整而成的小型"},{"fallback":"盔甲座","italic":false,"translate":"item.minecraft.armor_stand"},{"color":"white","italic":false,"text":"。"}]'],rarity="common",entity_data={id:"minecraft:armor_stand",Small:1b}] 1

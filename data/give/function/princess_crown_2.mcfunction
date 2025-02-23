@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"小公主皇冠"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"斜戴款式"}'],custom_model_data=12] 1

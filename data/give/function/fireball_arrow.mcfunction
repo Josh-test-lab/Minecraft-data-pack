@@ -1,0 +1,1 @@
+function weapon:fireball_arrow/fireball_arrow_give

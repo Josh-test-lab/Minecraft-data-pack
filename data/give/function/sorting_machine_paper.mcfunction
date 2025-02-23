@@ -1,0 +1,1 @@
+give @p paper[item_name='{"color":"blue","italic":false,"text":"分類機專用紙"}',lore=['{"italic":false,"text":" "}','{"color":"white","italic":false,"text":"適用於分類機的紙，以防止機器運作失效。"}']] 1

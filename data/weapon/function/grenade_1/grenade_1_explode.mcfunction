@@ -1,0 +1,2 @@
+kill @s
+summon minecraft:item ~ ~0.3 ~ {Age:5960,PickupDelay:100,Invulnerable:1b,Passengers:[{id:"minecraft:creeper",Silent:1b,DeathLootTable:"minecraft:empty",NoAI:1b,AbsorptionAmount:1000f,ExplosionRadius:5b,Fuse:40,ignited:1b,CustomName:'{"color":"gold","italic":false,"text":"手榴彈"}',active_effects:[{id:"minecraft:invisibility",amplifier:0,duration:40,show_particles:0b}],attributes:[{id:"minecraft:generic.attack_knockback",base:1},{id:"minecraft:generic.max_absorption",base:1000}]}],Item:{id:"minecraft:snowball",count:1,components:{"minecraft:custom_model_data":1}}}

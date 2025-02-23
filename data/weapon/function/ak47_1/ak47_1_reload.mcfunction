@@ -1,0 +1,4 @@
+execute if score @s ak47_1_bullet matches 1.. run execute as @s if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data={762mm:1},minecraft:custom_model_data=2] run item replace entity @s weapon.mainhand with air 1
+execute if score @s ak47_1_bullet matches 1.. run scoreboard players remove @s ak47_1_bullet 1
+execute if score @s[nbt={SelectedItem:{components:{"minecraft:custom_data":{magazine_ak47_1:1}}}}] ak47_1_bullet matches ..0 run title @s actionbar {"text":"彈藥已滿","bold":true,"color":"red"}
+execute if score @s[nbt={SelectedItem:{components:{"minecraft:custom_data":{762mm:1}}}}] ak47_1_bullet matches ..0 run title @s actionbar {"text":"彈藥已滿","bold":true,"color":"red"}

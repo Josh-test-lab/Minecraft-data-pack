@@ -1,0 +1,1 @@
+function magic:30_blocks_random_teleport_magic/30_blocks_random_teleport_magic_give

@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:chain_command_block"
+        },
+        "title": {
+            "text": "Danger! Be careful!"
+        },
+        "description": {
+            "text": "獲得連鎖式指令方塊"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "custom_advancement:custom/command_block/command_block",
+    "criteria": {
+        "shield": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:chain_command_block"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

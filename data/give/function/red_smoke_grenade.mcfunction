@@ -1,0 +1,1 @@
+function weapon:red_smoke_grenade/red_smoke_grenade_give

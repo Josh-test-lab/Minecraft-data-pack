@@ -1,0 +1,1 @@
+give @p minecraft:diamond_pickaxe[item_name='{"color":"yellow","text":"綠寶石鎬"}',rarity="uncommon",repair_cost=9999,custom_model_data=1,enchantments={levels:{"minecraft:fortune":5}}] 1

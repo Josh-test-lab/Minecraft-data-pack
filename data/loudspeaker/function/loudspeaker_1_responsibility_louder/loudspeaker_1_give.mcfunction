@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick[item_name='{"color":"yellow","text":"擴音器"}',lore=['{"text":" "}','{"color":"aqua","italic":false,"text":"特殊物品"}','[{"color":"white","italic":false,"text":"顏色："},{"color":"#E02E8A","italic":false,"text":"粉"}]'],rarity="uncommon",repair_cost=9999,custom_model_data=4,custom_data={loudspeaker:1}] 1

@@ -1,0 +1,1 @@
+function weapon:anvil_arrow/anvil_arrow_give

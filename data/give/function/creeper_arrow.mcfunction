@@ -1,0 +1,1 @@
+function weapon:creeper_arrow/creeper_arrow_give

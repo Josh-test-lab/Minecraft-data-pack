@@ -1,0 +1,1 @@
+give @p minecraft:wooden_axe[item_name='{"color":"white","text":"刀片"}',custom_model_data=1] 1

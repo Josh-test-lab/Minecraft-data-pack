@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:firework_rocket"
+        },
+        "title": {
+            "text": "一切的開端",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "進入伺服器",
+            "color": "green",
+            "bold": false
+        },
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "start": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

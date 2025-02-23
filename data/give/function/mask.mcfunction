@@ -1,0 +1,1 @@
+give @p minecraft:paper[item_name='{"text":"口罩"}',lore=['{"text":" "}','{"color":"white","italic":false,"text":"口罩，生活防護的好幫手。"}'],rarity="common",custom_model_data=1,attribute_modifiers=[{id:"max_absorption",type:"generic.max_absorption",amount:1,operation:"add_value"}]] 1

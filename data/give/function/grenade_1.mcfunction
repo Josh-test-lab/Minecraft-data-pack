@@ -1,0 +1,1 @@
+function weapon:grenade_1/grenade_1_give

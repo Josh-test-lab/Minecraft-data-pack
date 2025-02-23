@@ -1,0 +1,1 @@
+function weapon:fire_arrow/fire_arrow_give

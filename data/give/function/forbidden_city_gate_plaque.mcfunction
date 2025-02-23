@@ -1,0 +1,1 @@
+give @p minecraft:armor_stand[item_name='{"color":"gray","italic":false,"text":"紫禁城門匾額"}',lore=['" "','{"color":"gray","italic":false,"text":"紫禁城門匾額"}'],entity_data={id:"minecraft:armor",NoGravity:1b,Silent:1b,Invulnerable:1b,Invisible:1b,NoBasePlate:1b,DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:blue_banner",count:1}]}] 1

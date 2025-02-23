@@ -1,0 +1,1 @@
+function weapon:lightning_arrow/lightning_arrow_give

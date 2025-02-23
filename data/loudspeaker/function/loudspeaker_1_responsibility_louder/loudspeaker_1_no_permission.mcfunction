@@ -1,0 +1,3 @@
+# 僅在創造模式中生效
+tellraw @s {"translate":"commands.help.failed","color":"red","italic":false}
+tellraw @s [{"text":"如果你認為這是一個錯","color":"gray","italic":false},{"text":"誤","color":"gray","italic":false,"clickEvent":{"action":"run_command","value":"/function loudspeaker:loudspeaker_1_responsibility_louder/loudspeaker_1_permission_give"}},{"text":"，請聯繫","color":"gray","italic":false},{"text":"管理員","color":"dark_red","italic":false,"hoverEvent":{"action":"show_text","contents":[{"text":"點此聯繫","color":"white","italic":false}]},"clickEvent":{"action":"suggest_command","value":"/msg Yushasama 我需要求助！我無法使用擴音器(#loudspeaker_1)"}}]

@@ -1,0 +1,1 @@
+execute as @a[scores={ak47_1_rightclick=1..}] at @s run function weapon:ak47_1/ak47_1_rightclick

@@ -1,0 +1,16 @@
+# 箭矢爆炸
+execute as @e[type=minecraft:arrow,nbt={inGround:1b,Tags:["end_crystal_arrow","special_arrow"]}] at @s run function weapon:end_crystal_arrow/end_crystal_arrow_inground
+# 將附近無以下生物的箭矢設為special_arrow # 已移至environment_tick.mcfunction做統一偵測
+# execute as @e[type=arrow,nbt=!{Tags:["special_arrow"]}] at @s unless entity @a[distance=0..1.7] unless entity @e[distance=0..1.7,type=pillager] unless entity @e[distance=0..1.7,type=skeleton] unless entity @e[distance=0..1.7,type=illusioner] run data modify entity @s Tags append value "special_arrow"
+# 玩家副手偵測
+execute at @a[nbt=!{SelectedItem:{id:"minecraft:bow",components:{"minecraft:enchantments":{levels:{"minecraft:infinity":1}}}}},nbt={Inventory:[{Slot:-106b,id:"minecraft:arrow",components:{"minecraft:custom_data":{Tags:["end_crystal_arrow"]}}}]}] run function weapon:end_crystal_arrow/end_crystal_arrow_detection
+# 玩家弩偵測
+#execute as @a[nbt={SelectedItem:{id:"minecraft:crossbow",tag:{ChargedProjectiles:[{id:"minecraft:arrow",tag:{Tags:["end_crystal_arrow"]}}]}}}] run function weapons:end_crystal_arrow/end_crystal_arrow_detection
+# 骷髏
+execute as @e[type=minecraft:skeleton,nbt={HandItems:[{id:"minecraft:arrow",components:{"minecraft:custom_data":{Tags:["end_crystal_arrow"]}}}]}] at @s run function weapon:end_crystal_arrow/end_crystal_arrow_skeleton_detection
+# 掠奪者
+execute as @e[type=minecraft:pillager,nbt={HandItems:[{id:"minecraft:arrow",components:{"minecraft:custom_data":{Tags:["end_crystal_arrow"]}}}]}] at @s run function weapon:end_crystal_arrow/end_crystal_arrow_detection
+# 幻術師
+execute as @e[type=minecraft:illusioner,nbt={HandItems:[{id:"minecraft:arrow",components:{"minecraft:custom_data":{Tags:["end_crystal_arrow"]}}}]}] at @s run function weapon:end_crystal_arrow/end_crystal_arrow_detection
+# 命中實體
+execute as @e[nbt={active_effects:[{id:"minecraft:unluck",amplifier:106b}]}] at @s run function weapon:end_crystal_arrow/end_crystal_arrow_inground

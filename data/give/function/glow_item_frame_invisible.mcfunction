@@ -1,0 +1,1 @@
+give @p minecraft:glow_item_frame[item_name='{"color":"green","italic":false,"text":"隱形螢光物品展示框"}',lore=['{"color":"gray","italic":false,"text":"隱形 I"}','" "','[{"color":"white","italic":false,"text":"物品："},{"color":"white","fallback":"物品展示框","italic":false,"translate":"item.minecraft.glow_item_frame"}]'],entity_data={id:"minecraft:glow_item_frame",Invisible:1b}] 1

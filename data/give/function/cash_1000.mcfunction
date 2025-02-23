@@ -1,0 +1,1 @@
+give @p minecraft:paper[max_stack_size=99,item_name='{"color":"yellow","text":"1000 圓紙鈔"}',lore=['{"italic":false,"text":" "}','{"color":"white","italic":false,"text":"紙鈔的發明往往是為了方便交易、攜帶與儲存"}','{"color":"white","italic":false,"text":"。一疊紙鈔最多可以存放99張，這是極為恐"}','{"color":"white","italic":false,"text":"怖的數量。"}'],rarity="uncommon",custom_model_data=2] 99

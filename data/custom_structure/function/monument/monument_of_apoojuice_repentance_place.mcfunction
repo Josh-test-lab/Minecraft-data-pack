@@ -1,0 +1,1 @@
+place template custom_structure:monument/monument_of_apoojuice_repentance

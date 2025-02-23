@@ -1,0 +1,1 @@
+give @p minecraft:diamond_axe[item_name='{"color":"white","text":"菜刀"}',custom_model_data=5] 1

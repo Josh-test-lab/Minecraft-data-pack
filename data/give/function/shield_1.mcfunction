@@ -1,0 +1,1 @@
+give @p minecraft:shield[custom_model_data=1] 1

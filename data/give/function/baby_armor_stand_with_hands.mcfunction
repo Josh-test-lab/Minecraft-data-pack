@@ -1,0 +1,1 @@
+give @p minecraft:armor_stand[item_name='{"text":"小型有手盔甲座"}',lore=['{"text":" "}','[{"color":"white","italic":false,"text":"經過調整的小型"},{"fallback":"盔甲座","italic":false,"translate":"item.minecraft.armor_stand"},{"color":"white","italic":false,"text":"，使其手部可以呈現。"}]'],rarity="common",entity_data={id:"minecraft:armor_stand",ShowArms:1b,Small:1b}] 1

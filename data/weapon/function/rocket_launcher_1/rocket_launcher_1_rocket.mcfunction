@@ -1,0 +1,2 @@
+execute if items entity @s weapon.offhand minecraft:fire_charge[minecraft:custom_data={rocket_launcher_rocket:1}] run function weapon:rocket_launcher_1/rocket_launcher_1_reload
+execute unless items entity @s weapon.offhand minecraft:fire_charge[minecraft:custom_data={rocket_launcher_rocket:1}] run title @s actionbar {"text":"彈藥不足","bold":true,"color":"red"}

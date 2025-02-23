@@ -1,0 +1,1 @@
+function weapon:end_crystal_arrow/end_crystal_arrow_give

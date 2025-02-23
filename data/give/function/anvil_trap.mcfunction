@@ -1,0 +1,1 @@
+function magic:anvil_trap/anvil_trap_give

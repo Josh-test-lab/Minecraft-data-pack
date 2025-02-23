@@ -1,0 +1,1 @@
+give @p minecraft:diamond_axe[max_stack_size=1,max_damage=10000,item_name='{"color":"yellow","text":"球棒"}',lore=['{"italic":false,"text":" "}','[{"color":"yellow","italic":false,"text":"球棒"},{"color":"white","italic":false,"text":"，也可以砍樹，也是地方名產。可以揮"}]','{"color":"white","italic":false,"text":"擊萬次。"}'],rarity="uncommon",repair_cost=9999,custom_model_data=3] 1

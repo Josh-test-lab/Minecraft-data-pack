@@ -1,0 +1,1 @@
+give @p minecraft:feather[item_name='{"color":"white","text":"綠色羽毛"}',rarity="common",custom_model_data=1] 1

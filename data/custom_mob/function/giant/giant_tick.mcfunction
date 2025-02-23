@@ -1,0 +1,1 @@
+execute as @e[type=!item,type=!minecraft:experience_orb,type=!minecraft:area_effect_cloud,type=!minecraft:marker,type=!minecraft:block_display,type=!minecraft:item_display,type=!minecraft:text_display,type=!minecraft:giant] at @s run damage @s 2 minecraft:mob_attack by @n[distance=..2.5,type=minecraft:giant,nbt={Tags:["giant_walk_attack"]}]

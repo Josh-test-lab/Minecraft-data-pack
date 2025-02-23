@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:leather_boots"
+        },
+        "title": "跑酷能手? 危險人物?",
+        "description": "於港口冒著摔斷腿的風險，進行貨櫃跑酷",
+        "hidden": true
+    },
+    "parent": "custom_advancement:custom/root",
+    "criteria": {
+        "pauku": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

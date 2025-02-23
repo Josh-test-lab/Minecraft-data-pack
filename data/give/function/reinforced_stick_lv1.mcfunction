@@ -1,0 +1,1 @@
+give @p minecraft:stick[lore=['{"text":" "}','[{"color":"white","italic":false,"text":"經強化過後的"},{"color":"dark_green","italic":false,"text":"木棒"}]'],attribute_modifiers=[{id:"armor",type:"generic.attack_damage",amount:4.0d,operation:"add_value",slot:"mainhand"}]] 1

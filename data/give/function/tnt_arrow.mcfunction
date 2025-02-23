@@ -1,0 +1,1 @@
+function weapon:tnt_arrow/tnt_arrow_give

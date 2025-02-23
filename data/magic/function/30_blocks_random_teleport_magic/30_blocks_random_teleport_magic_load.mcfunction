@@ -1,0 +1,3 @@
+scoreboard objectives add 30_blocks_random_teleport_magic_cooldown_timer dummy
+scoreboard objectives add 30_blocks_random_teleport_magic_paper_drop minecraft.dropped:minecraft.paper
+scoreboard objectives add 30_blocks_random_teleport_magic_have_nearby dummy

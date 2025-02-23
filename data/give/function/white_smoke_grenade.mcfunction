@@ -1,0 +1,1 @@
+function weapon:white_smoke_grenade/white_smoke_grenade_give

@@ -1,0 +1,1 @@
+scoreboard objectives add 762mm_rightclick minecraft.used:minecraft.carrot_on_a_stick

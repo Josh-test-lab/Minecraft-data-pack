@@ -1,0 +1,3 @@
+execute if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data={magazine_ak47_1:1},minecraft:custom_model_data=3] run execute if items entity @s weapon.offhand minecraft:carrot_on_a_stick[minecraft:custom_data={ak47:1},minecraft:custom_model_data=1] run execute if score @s ak47_1_bullet matches 1.. run function bullet:magazine_ak47_1/magazine_ak47_1_reload
+execute if score @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:carrot_on_a_stick",components:{"minecraft:custom_model_data":1,"minecraft:custom_data":{ak47:1}}}]}] ak47_1_bullet matches ..0 run title @s actionbar {"text":"彈藥已滿","bold":true,"color":"red"}
+scoreboard players reset @s magazine_ak47_1_rightclick

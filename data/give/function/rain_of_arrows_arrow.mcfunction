@@ -1,0 +1,1 @@
+function weapon:rain_of_arrows_arrow/rain_of_arrows_arrow_give
