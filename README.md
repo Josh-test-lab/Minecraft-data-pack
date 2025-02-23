@@ -1,2 +1,2 @@
-# Minecraft-datapack
-the Minecraft datapack
+# Minecraft-data-pack
+the Minecraft data pack
